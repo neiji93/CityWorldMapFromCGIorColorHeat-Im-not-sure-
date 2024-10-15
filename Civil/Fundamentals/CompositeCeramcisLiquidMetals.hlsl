@@ -48,7 +48,7 @@ void ReverseLocateHeatFromUnknownIsolates(...)
 
    //if earth models exist, it will be the best thing to return because cos^2(x) * exp(y) * dirac_delta * Constant is not a local model.
    //If we study earth model (this present case), we can see that approximate differential equations of the movements can be described
-   //as random movements in a mechanicall manner. 
+   //as random movements in a mechanicall manner. So, here, we prevent using heatt transfers because we failed to do it at the above lines.
    return EarthModel(....);
 }
 
