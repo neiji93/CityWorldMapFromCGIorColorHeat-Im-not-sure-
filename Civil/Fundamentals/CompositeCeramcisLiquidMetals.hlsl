@@ -29,9 +29,15 @@ void terraIsolateMathRandomCorpus( .... )
 //ground rocks as a special viewpoint of CGI techniques. Here, we have to use cpu cells as hard
 //to draw body skeleton effectors positions. ....Let's draw soon !!!....Seems a little bit stpuid 
 //but I m an artist too...
+//Thos lines seems wrong but it says that we have to use heat ransfer twice !
 void locateHeatFromUnknownIsolates(...)
 {
-
+   //esquisse. h : plancks constant
+  //But physically speaking, it doesn't seem wrong at all ! Maybe double heat transfer is wrong.
+   if( (h * cos^2(x))^2 < (h^2 * exp(y))^2  )  //(x,y) position top view
+   {
+      return guaussian(x); //or  gaussian(y)   ... 
+   }
 }
 
 
