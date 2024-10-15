@@ -22,6 +22,9 @@ void terraIsolateMathRandomCorpus( .... )
   //...
 }
 
+
+
+//SORRY, seems EXTREMELY BAD.
 //the nature of the ground rocks doesn t matter here. Thinking about the next lines involves
 //turning into physics terraIsolateMathRandomCorpus function. We alreay experienced heat transfer
 //but we didn't find anyhting in our researches yet which didn t take a long time to study. Then,
@@ -30,7 +33,7 @@ void terraIsolateMathRandomCorpus( .... )
 //to draw body skeleton effectors positions. ....Let's draw soon !!!....Seems a little bit stpuid 
 //but I m an artist too...
 //Thos lines seems wrong but it says that we have to use heat ransfer twice !
-void locateHeatFromUnknownIsolates(...)
+void ReverseLocateHeatFromUnknownIsolates(...)
 {
    //esquisse. h : plancks constant
   //But physically speaking, it doesn't seem wrong at all ! Maybe double heat transfer is wrong.
@@ -38,6 +41,15 @@ void locateHeatFromUnknownIsolates(...)
    {
       return guaussian(x); //or  gaussian(y)   ... 
    }
+
+   //using CGI tehnciques to get the nature of the rocks
+   propagateSceneRaysWithAlbedo(...);
+   
+
+   //if earth models exist, it will be the best thing to return because cos^2(x) * exp(y) * dirac_delta * Constant is not a local model.
+   //If we study earth model (this present case), we can see that approximate differential equations of the movements can be described
+   //as random movements in a mechanicall manner. 
+   return EarthModel(....);
 }
 
 
