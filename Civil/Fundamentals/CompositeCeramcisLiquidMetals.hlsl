@@ -22,5 +22,16 @@ void terraIsolateMathRandomCorpus( .... )
   //...
 }
 
+//the nature of the ground rocks doesn t matter here. Thinking about the next lines involves
+//turning into physics terraIsolateMathRandomCorpus function. We alreay experienced heat transfer
+//but we didn't find anyhting in our researches yet which didn t take a long time to study. Then,
+//as the light can enter the ground and as we experiences CGI tehnciques too, we can now modelize
+//ground rocks as a special viewpoint of CGI techniques. Here, we have to use cpu cells as hard
+//to draw body skeleton effectors positions. ....Let's draw soon !!!....Seems a little bit stpuid 
+//but I m an artist too...
+void locateHeatFromUnknownIsolates(...)
+{
+
+}
 
 
