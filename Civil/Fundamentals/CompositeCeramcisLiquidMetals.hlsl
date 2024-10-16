@@ -23,7 +23,7 @@ void terraIsolateMathRandomCorpus( .... )
 }
 
 
-
+/*
 //SORRY, seems EXTREMELY BAD.
 //the nature of the ground rocks doesn t matter here. Thinking about the next lines involves
 //turning into physics terraIsolateMathRandomCorpus function. We alreay experienced heat transfer
@@ -51,5 +51,10 @@ void ReverseLocateHeatFromUnknownIsolates(...)
    //as random movements in a mechanicall manner. So, here, we prevent using heatt transfers because we failed to do it at the above lines.
    return EarthModel(....);
 }
+*/
 
-
+//Stuff philosophy (ffrench) : quelque chose qui possède une intelligence et qui n est pas médecin
+//ressemble à un dieu.
+//Consciensoussness. Why using this keyword here ? Because it's the second time I found something
+//in philosophy. Then, it means that, and it s extremly a rough idea, that man who interact to its
+//nature outside the window can predict rocks !
