@@ -58,3 +58,13 @@ void ReverseLocateHeatFromUnknownIsolates(...)
 //Consciensoussness. Why using this keyword here ? Because it's the second time I found something
 //in philosophy. Then, it means that, and it s extremly a rough idea, that man who interact to its
 //nature outside the window can predict rocks !
+//So, what we have to do with all philosophical knowledge merged together (only my own stuffs) will be to
+//forbid lloking inner properties of the rocks. Here, it seems we validate models. But, then, how can we use
+//composite materials ? We have to convert albedo into roughness like in CG. But atmospheric scattering needs
+//to be outside the scope CG. To do that, we can use :
+// formes automorohes finie et corps... ?? de dimension finie (nous navons pas besoin dinfinie grace a ma reconnaissance zn tant suartiste !)
+
+
+
+
+
