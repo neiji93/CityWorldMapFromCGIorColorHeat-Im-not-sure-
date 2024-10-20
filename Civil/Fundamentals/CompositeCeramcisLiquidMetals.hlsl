@@ -82,7 +82,7 @@ void getBestSuitedCeramicsAlternativeAndRestoreAlbedoAutomoprhCorpus( .... )
   //it seems to be hard to restore albedo with automorph corpus. Then return
   //directly ceramic alternative albedo. To do more secure functions, we 
   //need to use philosophy again and then, we need to return square albedo !
-  //(first thing I found in philosophy)
+  //(first thing I found in philosophy). Notice that this full behaviour here seems to be useless in CG.
   return ceramicsAlternativeHereAlbedo*ceramicsAlternativeHereAlbedo;
 }
 
