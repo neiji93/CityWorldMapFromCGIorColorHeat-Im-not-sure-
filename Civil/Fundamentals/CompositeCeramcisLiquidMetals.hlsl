@@ -63,6 +63,30 @@ void ReverseLocateHeatFromUnknownIsolates(...)
 //composite materials ? We have to convert albedo into roughness like in CG. But atmospheric scattering needs
 //to be outside the scope CG. To do that, we can use :
 // formes automorohes finie et corps... ?? de dimension finie (nous navons pas besoin dinfinie grace a ma reconnaissance zn tant suartiste !)
+void getBestSuitedCeramicsAlternativeAndRestoreAlbedoAutomoprhCorpus( .... )
+{
+  //may contain some errors. If I fail to correct them, my intelligence will stop.
+
+  //we need to use heavily automorph corpuses.
+
+  //roughness should be turned into albedo if we have an inutiutive idea of what rocks we are studying
+
+
+
+
+  //
+
+  
+
+  //it seems to be hard to restore albedo with automorph corpus. Then return
+  //directly ceramic alternative albedo. To do more secure functions, we 
+  //need to use philosophy again and then, we need to return square albedo !
+  //(first thing I found in philosophy)
+  return ceramicsAlternativeHereAlbedo*ceramicsAlternativeHereAlbedo;
+}
+
+
+
 
 
 
