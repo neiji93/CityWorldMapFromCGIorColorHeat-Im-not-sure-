@@ -66,6 +66,7 @@ void ReverseLocateHeatFromUnknownIsolates(...)
 void getBestSuitedCeramicsAlternativeAndRestoreAlbedoAutomoprhCorpus( .... )
 {
   //may contain some errors. If I fail to correct them, my intelligence will stop.
+  //no way, this is correct for the futur, even if it may contain some erroris !
 
   //we need to use heavily automorph corpuses.
 
